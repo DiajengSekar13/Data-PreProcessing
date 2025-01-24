@@ -25,7 +25,8 @@ Dengan memanfaatkan Jupyter Notebook, proyek ini memungkinkan eksplorasi data se
 - **Matplotlib & Seaborn**: Untuk visualisasi data.
 
 ## Struktur Direktori
-data-preprocessing/  
+   ```bash
+├──data-preprocessing/  
 ├── notebooks/ # Jupyter Notebooks untuk eksplorasi dan analisis data 
 ├── data/ # Dataset yang digunakan dalam analisis 
 ├── results/ # Hasil visualisasi atau output dari analisis 
